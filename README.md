@@ -1,6 +1,6 @@
 # Backgammon
 
-Witam w projekcie Backgammon! To repozytorium zawiera klasyczną implementację gry planszowej Backgammon. Projekt został zrobiony w ramach przedmiotu podstawy programowania na pierwszym semestrze informatyki na Politechnice Gdańskiej.
+Repozytorium zawiera klasyczną implementację gry planszowej Backgammon. Projekt został zrobiony w ramach przedmiotu podstawy programowania na pierwszym semestrze informatyki na Politechnice Gdańskiej. Oparty jest na bibliotece conio dostarczonej przez uczelnie. 
 
 ## Spis Treści
 
